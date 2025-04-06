@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('./Background.jpg'); height: 200px; background-size: cover; display: flex; justify-content: center; align-items: center">
+<div align="center" style="background-image: url('Background.jpg'); height: 200px; background-size: cover; display: flex; justify-content: center; align-items: center">
   <h1 align="center" style="
   text-shadow: 
     -1px -1px 0 black,
